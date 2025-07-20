@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ResearchBlocks>
+
+        <!-- Cover Panels -->
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_Centered" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_Inner" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_HOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_HOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_VOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel_VOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel3x3" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel3x3_Inner" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel3x3_Centered" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel5x5" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel5x5_Inner" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverPanel5x5_Centered" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_Inner" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_Centered" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_HOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_HOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_VOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_HalfCoverPanel_VOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <!-- Cover Slopes -->
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope_Offset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope_Offset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Base" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Tip" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Base_HOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Base_HOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Base_VOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Base_VOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset2" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <!-- CoverTube -->
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_SmallCoverTube" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverTube" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTube" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverRing3x3" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing5x5" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing7x7" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_SmallToInnerCoverTube" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerToCoverTube" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_SmallCoverTubeCap_Flat" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_SmallCoverTubeCap_Full" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_SmallCoverTubeCap_Half" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverTubeCap_Flat" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverTubeCap_Full" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverTubeCap_Half" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTubeCap_Flat" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTubeCap_Full" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTubeCap_Half" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTubeCap_Full_Offset1" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverRing3x3Cap_Flat" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverRing3x3Cap_Full" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverRing3x3Cap_Half" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_InnerCoverRing3x3Cap_Hollow" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverTube3x3" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing3x3Cap_Flat" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing3x3Cap_Full" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing3x3Cap_Half" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_CoverRing3x3Cap_Hollow" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <!-- Greeble -->
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Handle" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Handle_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_DoubleHandle" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_DoubleHandle_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Handle1x3" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Handle1x3_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_DualBrace" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_QuadBrace" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_RivetSingle" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_RivetSingle_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_QuadRivets" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_QuadRivets_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Rivets3x3" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_CubeBlock" Subtype="KJN_KWP_DEC_Rivets3x3_HalfOffset" />
+            <UnlockedByGroups>
+                <GroupSubtype>1</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+      
+        <!-- Ship Horns -->
+        <ResearchBlock xsi:type="ResearchBlock">
+          <Id Type="MyObjectBuilder_Collector" Subtype="KJN_KWP_DEC_shiphorn_type_A" />
+          <UnlockedByGroups>
+            <GroupSubtype>1</GroupSubtype>
+          </UnlockedByGroups>
+        </ResearchBlock>
+        <ResearchBlock xsi:type="ResearchBlock">
+          <Id Type="MyObjectBuilder_Collector" Subtype="KJN_KWP_DEC_shiphorn_type_B" />
+          <UnlockedByGroups>
+            <GroupSubtype>1</GroupSubtype>
+          </UnlockedByGroups>
+        </ResearchBlock>
+      
+    </ResearchBlocks>
+</Definitions>

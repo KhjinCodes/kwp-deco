@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClasses>
+    </BlueprintClasses>	
+    <BlueprintClassEntries>
+
+        <!-- Cover Panels -->
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_Centered" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_Inner" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel3x3" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Inner" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Centered" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel5x5" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Inner" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Centered" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Inner" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Centered" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset2" />
+
+        <!-- Cover Slopes -->
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope_Offset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope_Offset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset2" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset2" />
+    
+        <!-- CoverTubes -->
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_SmallCoverTube" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverTube" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTube" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTube3x3" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing5x5" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing7x7" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_SmallToInnerCoverTube" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerToCoverTube" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Flat" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Full" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Half" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Flat" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Full" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Half" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTubeCap_Flat" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTubeCap_Half" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full_Offset1" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Flat" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Full" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Half" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Hollow" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Flat" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Full" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Half" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Hollow" />
+
+        <!-- Greeble -->
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Handle" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Handle_HalfOffset" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_DoubleHandle" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_DoubleHandle_HalfOffset" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Handle1x3" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Handle1x3_HalfOffset" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_DualBrace" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_QuadBrace" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_RivetSingle" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_RivetSingle_HalfOffset" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_QuadRivets" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_QuadRivets_HalfOffset" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Rivets3x3" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="CubeBlock/KJN_KWP_DEC_Rivets3x3_HalfOffset" />
+      
+        <!-- Greeble -->
+        <Entry Class="LargeBlocks" BlueprintSubtypeId="Collector/KJN_KWP_DEC_shiphorn_type_A" />
+        <Entry Class="LargeBlocks" BlueprintSubtypeId="Collector/KJN_KWP_DEC_shiphorn_type_B" />
+      
+    </BlueprintClassEntries>
+</Definitions>

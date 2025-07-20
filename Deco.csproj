@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(ProjectDir)KWP - Deco\*&quot; &quot;%25APPDATA%25\SpaceEngineers\Mods\KWP - Deco\&quot; /s /e /y&#xD;&#xA;del &quot;$(TargetPath)&quot;" />
+  </Target>
+
+</Project>

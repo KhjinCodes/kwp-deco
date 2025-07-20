@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <CategoryClasses>
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>Khjin's Warfare Packs</DisplayName>
+            <Name>KJN_KWP_All</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+
+                <!-- Cover Panels -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset2</string>
+
+                <!-- Cover Slope -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope_Offset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope_Offset2</string>
+
+                <!-- CoverSlope1x2 -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset2</string>
+
+                <!-- CoverTubes -->
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing5x5</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing7x7</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallToInnerCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerToCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full_Offset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Hollow</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Hollow</string>
+
+                <!-- Greeble -->
+                <string>CubeBlock/KJN_KWP_DEC_Handle</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_DoubleHandle</string>
+                <string>CubeBlock/KJN_KWP_DEC_DoubleHandle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle1x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle1x3_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_DualBrace</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadBrace</string>
+                <string>CubeBlock/KJN_KWP_DEC_RivetSingle</string>
+                <string>CubeBlock/KJN_KWP_DEC_RivetSingle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadRivets</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadRivets_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_Rivets3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_Rivets3x3_HalfOffset</string>
+
+                <!-- Ship Horns -->
+                <string>Collector/KJN_KWP_DEC_shiphorn_type_A</string>
+                <string>Collector/KJN_KWP_DEC_shiphorn_type_B</string>
+
+            </ItemIds>
+        </Category>
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>   Decorative</DisplayName>
+            <Name>KJN_KWP_Deco</Name>
+            <SearchBlocks>true</SearchBlocks>
+            <IsToolCategory>false</IsToolCategory>
+            <ItemIds>
+
+                <!-- Cover Panels -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel_VOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel3x3_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverPanel5x5_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Inner</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_Centered</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_HalfCoverPanel_VOffset2</string>
+
+                <!-- Cover Slope -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope_Offset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope_Offset2</string>
+
+                <!-- CoverSlope1x2 -->
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_HOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Base_VOffset2</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverSlope1x2_Tip_VOffset2</string>
+
+                <!-- CoverTubes -->
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing5x5</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing7x7</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallToInnerCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerToCoverTube</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_SmallCoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverTubeCap_Full_Offset1</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_InnerCoverRing3x3Cap_Hollow</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Flat</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Full</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Half</string>
+                <string>CubeBlock/KJN_KWP_DEC_CoverRing3x3Cap_Hollow</string>
+
+                <!-- Greeble -->
+                <string>CubeBlock/KJN_KWP_DEC_Handle</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_DoubleHandle</string>
+                <string>CubeBlock/KJN_KWP_DEC_DoubleHandle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle1x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_Handle1x3_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_DualBrace</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadBrace</string>
+                <string>CubeBlock/KJN_KWP_DEC_RivetSingle</string>
+                <string>CubeBlock/KJN_KWP_DEC_RivetSingle_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadRivets</string>
+                <string>CubeBlock/KJN_KWP_DEC_QuadRivets_HalfOffset</string>
+                <string>CubeBlock/KJN_KWP_DEC_Rivets3x3</string>
+                <string>CubeBlock/KJN_KWP_DEC_Rivets3x3_HalfOffset</string>
+              
+                <!-- Ship Horns -->
+                <string>Collector/KJN_KWP_DEC_shiphorn_type_A</string>
+                <string>Collector/KJN_KWP_DEC_shiphorn_type_B</string>
+              
+            </ItemIds>
+        </Category>
+
+	</CategoryClasses>
+
+</Definitions>

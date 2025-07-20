@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Sounds>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>KJN_KWP_DEC_ShipHornTypeASound</SubtypeId>
+            </Id>
+            <Category>SHIP</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>5</Volume>
+            <RealisticFilter>realShipFilter</RealisticFilter>
+            <RealisticVolumeChange>0.8</RealisticVolumeChange>
+            <Loopable>true</Loopable>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>Audio\KJN_KWP_ShipHorn_TypeA_Start.wav</Start>
+                    <Loop>Audio\KJN_KWP_ShipHorn_TypeA_Loop.wav</Loop>
+                    <End>Audio\KJN_KWP_ShipHorn_TypeA_End.wav</End>
+                </Wave>
+            </Waves>
+        </Sound>
+        <Sound>
+          <Id>
+            <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+            <SubtypeId>KJN_KWP_DEC_ShipHornTypeBSound</SubtypeId>
+          </Id>
+          <Category>SHIP</Category>
+          <MaxDistance>2000</MaxDistance>
+          <Volume>5</Volume>
+          <RealisticFilter>realShipFilter</RealisticFilter>
+          <RealisticVolumeChange>0.8</RealisticVolumeChange>
+          <Loopable>true</Loopable>
+          <Waves>
+            <Wave Type="D3">
+              <Start>Audio\KJN_KWP_ShipHorn_TypeB_Start.wav</Start>
+              <Loop>Audio\KJN_KWP_ShipHorn_TypeB_Loop.wav</Loop>
+              <End>Audio\KJN_KWP_ShipHorn_TypeB_End.wav</End>
+            </Wave>
+          </Waves>
+        </Sound>
+    </Sounds>
+</Definitions>
